@@ -191,12 +191,17 @@
     flex-direction: column;
     justify-content: space-around;
     padding: 20px;
+     
   }
   
-  .form input,
+  .form input{
+ margin-left: 20px;
+
+  }
   .form select {
     font-size: 15px;
     padding: 0.5em 0;
+  
   }
   
   .promotion-images {
